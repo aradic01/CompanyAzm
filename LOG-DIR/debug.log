@@ -1,0 +1,396 @@
+2020-12-11 10:01:38 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 56936 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 10:01:38 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 10:01:38 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 10:01:46 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 10:01:46 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 9.168 seconds (JVM running for 10.615)
+2020-12-11 10:02:07 DEBUG EmployeeService:44 - Invoking getEmployeeById()
+2020-12-11 10:02:17 DEBUG EmployeeService:44 - Invoking getEmployeeById()
+2020-12-11 10:02:17 ERROR ControllerExceptionHandler:31 - Error while trying to get resource: Employee with ID 67 Not Found!
+2020-12-11 10:18:30 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 8268 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 10:18:30 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 10:18:30 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 10:18:38 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 10:18:39 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 9.058 seconds (JVM running for 10.479)
+2020-12-11 10:19:47 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 20584 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 10:19:47 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 10:19:47 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 10:19:55 DEBUG EmployeeService:44 - Invoking getEmployeeById()
+2020-12-11 10:19:55 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.96 seconds (JVM running for 10.366)
+2020-12-11 10:19:55 ERROR ControllerExceptionHandler:31 - Error while trying to get resource: Employee with ID 67 Not Found!
+2020-12-11 10:19:59 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 10:19:59 ERROR ControllerExceptionHandler:47 - An error occurred: Error attempting to apply AttributeConverter; nested exception is javax.persistence.PersistenceException: Error attempting to apply AttributeConverter
+2020-12-11 10:28:59 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 68340 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 10:28:59 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 10:28:59 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 10:29:07 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 10:29:07 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.898 seconds (JVM running for 10.279)
+2020-12-11 10:29:07 ERROR ControllerExceptionHandler:47 - An error occurred: Error attempting to apply AttributeConverter; nested exception is javax.persistence.PersistenceException: Error attempting to apply AttributeConverter
+2020-12-11 10:29:09 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 10:29:09 ERROR ControllerExceptionHandler:47 - An error occurred: Error attempting to apply AttributeConverter; nested exception is javax.persistence.PersistenceException: Error attempting to apply AttributeConverter
+2020-12-11 10:29:28 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 15180 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 10:29:28 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 10:29:28 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 10:29:36 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 10:29:36 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.973 seconds (JVM running for 10.357)
+2020-12-11 10:29:39 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 10:32:32 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 85368 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 10:32:32 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 10:32:32 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 10:32:40 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 10:32:40 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.826 seconds (JVM running for 10.27)
+2020-12-11 10:33:25 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 41556 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 10:33:25 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 10:33:25 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 10:33:32 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 10:33:33 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.501 seconds (JVM running for 9.868)
+2020-12-11 10:33:35 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 10:34:19 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 57180 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 10:34:19 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 10:34:19 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 10:34:27 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 10:34:27 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.889 seconds (JVM running for 10.254)
+2020-12-11 10:34:28 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 10:36:03 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 67992 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 10:36:03 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 10:36:03 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 10:36:11 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 10:36:11 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.384 seconds (JVM running for 9.746)
+2020-12-11 10:36:14 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 10:49:06 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 69604 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 10:49:06 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 10:49:06 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 10:49:14 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.804 seconds (JVM running for 10.183)
+2020-12-11 10:49:56 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 40400 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 10:49:56 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 10:49:56 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 10:50:57 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 43484 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 10:50:57 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 10:50:57 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 10:51:05 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.812 seconds (JVM running for 10.196)
+2020-12-11 10:51:21 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 55492 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 10:51:21 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 10:51:21 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 10:51:29 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.631 seconds (JVM running for 9.995)
+2020-12-11 10:54:46 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 68168 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 10:54:46 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 10:54:46 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 10:54:56 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 10.443 seconds (JVM running for 11.917)
+2020-12-11 10:57:31 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 45996 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 10:57:31 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 10:57:31 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 10:57:39 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 18.66 seconds (JVM running for 20.076)
+2020-12-11 10:57:58 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 10:59:02 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 2760 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 10:59:02 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 10:59:02 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 10:59:10 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.997 seconds (JVM running for 10.509)
+2020-12-11 10:59:41 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 10:59:42 ERROR ControllerExceptionHandler:47 - An error occurred: Error attempting to apply AttributeConverter; nested exception is javax.persistence.PersistenceException: Error attempting to apply AttributeConverter
+2020-12-11 11:00:24 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 9772 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 11:00:24 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 11:00:24 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 11:00:33 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 9.803 seconds (JVM running for 11.194)
+2020-12-11 11:00:48 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 11:14:02 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 81640 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 11:14:02 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 11:14:02 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 11:14:10 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.887 seconds (JVM running for 10.273)
+2020-12-11 11:14:42 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 74512 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 11:14:42 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 11:14:42 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 11:14:50 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.891 seconds (JVM running for 10.268)
+2020-12-11 11:15:35 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 36200 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 11:15:35 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 11:15:35 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 11:15:43 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 11:15:43 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.89 seconds (JVM running for 10.26)
+2020-12-11 11:16:24 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 72004 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 11:16:24 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 11:16:24 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 11:16:32 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.351 seconds (JVM running for 9.734)
+2020-12-11 11:17:04 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 11:17:22 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 32016 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 11:17:22 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 11:17:22 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 11:17:31 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 9.785 seconds (JVM running for 11.262)
+2020-12-11 11:20:24 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 60888 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 11:20:24 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 11:20:24 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 11:20:33 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.871 seconds (JVM running for 10.308)
+2020-12-11 11:21:43 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 11:22:26 DEBUG DepartmentService:31 - Invoking getAllDepartments()
+2020-12-11 11:22:35 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 11:48:10 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 84612 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 11:48:10 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 11:48:10 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 11:49:10 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 25084 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 11:49:10 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 11:49:10 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 11:50:11 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 37624 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 11:50:11 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 11:50:11 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 11:51:49 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 35188 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 11:51:49 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 11:51:49 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 11:51:58 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 9.381 seconds (JVM running for 10.775)
+2020-12-11 11:53:19 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 19436 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 11:53:19 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 11:53:19 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 11:53:27 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.825 seconds (JVM running for 10.19)
+2020-12-11 11:54:01 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 76364 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 11:54:01 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 11:54:01 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 11:54:09 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 9.136 seconds (JVM running for 10.538)
+2020-12-11 11:54:29 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 38304 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 11:54:29 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 11:54:29 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 11:54:38 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.921 seconds (JVM running for 10.292)
+2020-12-11 12:14:15 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 32780 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 12:14:15 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 12:14:15 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 12:14:24 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 9.229 seconds (JVM running for 10.64)
+2020-12-11 12:17:10 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 9984 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 12:17:10 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 12:17:10 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 12:17:19 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 9.005 seconds (JVM running for 10.395)
+2020-12-11 12:29:52 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 54684 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 12:29:52 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 12:29:52 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 12:30:00 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 9.035 seconds (JVM running for 10.375)
+2020-12-11 12:39:08 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 86348 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 12:39:08 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 12:39:08 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 12:39:15 DEBUG EmployeeService:30 - Invoking getAllEmployees()
+2020-12-11 12:39:16 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.639 seconds (JVM running for 9.959)
+2020-12-11 13:33:04 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 66380 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 13:33:04 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 13:33:04 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 13:33:13 DEBUG EmployeeService:40 - Invoking getAllEmployees()
+2020-12-11 13:33:14 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 10.22 seconds (JVM running for 11.941)
+2020-12-11 13:33:20 DEBUG DepartmentService:38 - Invoking getAllDepartments()
+2020-12-11 13:33:26 DEBUG ProjectService:42 - Invoking getAllProjects()
+2020-12-11 13:55:34 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 58248 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 13:55:34 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 13:55:34 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 13:55:44 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 10.644 seconds (JVM running for 12.517)
+2020-12-11 13:56:05 DEBUG ProjectService:65 - Invoking getProjectById()
+2020-12-11 13:56:38 ERROR ControllerExceptionHandler:47 - An error occurred: Request method 'PATCH' not supported
+2020-12-11 13:57:03 ERROR ControllerExceptionHandler:47 - An error occurred: Request method 'PATCH' not supported
+2020-12-11 13:57:46 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 74268 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 13:57:46 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 13:57:46 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 13:57:55 ERROR ControllerExceptionHandler:47 - An error occurred: Request method 'PATCH' not supported
+2020-12-11 13:57:56 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 10.769 seconds (JVM running for 12.333)
+2020-12-11 14:00:04 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 2116 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 14:00:04 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 14:00:04 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 14:00:13 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 9.859 seconds (JVM running for 11.449)
+2020-12-11 14:00:14 DEBUG ProjectService:65 - Invoking getProjectById()
+2020-12-11 14:00:18 DEBUG ProjectService:109 - Invoking updateProjectDescription()
+2020-12-11 14:01:31 DEBUG ProjectService:98 - Invoking updateProject()
+2020-12-11 14:01:40 DEBUG ProjectService:65 - Invoking getProjectById()
+2020-12-11 14:03:00 DEBUG ProjectService:98 - Invoking updateProject()
+2020-12-11 14:07:26 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 37580 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 14:07:26 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 14:07:26 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 14:07:36 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 10.776 seconds (JVM running for 12.304)
+2020-12-11 14:15:13 DEBUG EmployeeService:42 - Invoking getAllEmployees()
+2020-12-11 14:22:31 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 29900 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 14:22:31 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 14:22:31 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 14:22:41 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 10.292 seconds (JVM running for 11.838)
+2020-12-11 14:22:41 DEBUG ProjectService:43 - Invoking getAllProjects()
+2020-12-11 14:22:50 DEBUG EmployeeService:42 - Invoking getAllEmployees()
+2020-12-11 14:27:53 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 95112 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 14:27:53 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 14:27:53 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 14:28:04 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 11.346 seconds (JVM running for 12.905)
+2020-12-11 14:34:51 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 100228 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 14:34:51 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 14:34:51 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 14:35:02 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 12.006 seconds (JVM running for 13.753)
+2020-12-11 14:39:02 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 103056 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 14:39:02 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 14:39:02 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 14:39:13 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 11.814 seconds (JVM running for 13.558)
+2020-12-11 14:39:51 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 103020 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 14:39:51 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 14:39:51 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 14:40:02 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 12.106 seconds (JVM running for 13.786)
+2020-12-11 14:41:57 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 104608 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 14:41:57 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 14:41:57 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 14:42:08 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 11.537 seconds (JVM running for 13.193)
+2020-12-11 14:43:21 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 104696 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-11 14:43:21 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-11 14:43:21 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-11 14:43:32 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 12.106 seconds (JVM running for 13.844)
+2020-12-12 17:12:24 INFO  DepartmentsControllerTests:55 - Starting DepartmentsControllerTests using Java 1.8.0_275 on 5CG0393655 with PID 712 (started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-12 17:12:24 DEBUG DepartmentsControllerTests:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-12 17:12:24 INFO  DepartmentsControllerTests:660 - No active profile set, falling back to default profiles: default
+2020-12-12 17:12:25 INFO  DepartmentsControllerTests:55 - Starting DepartmentsControllerTests using Java 1.8.0_275 on 5CG0393655 with PID 712 (started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-12 17:12:25 DEBUG DepartmentsControllerTests:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-12 17:12:25 INFO  DepartmentsControllerTests:660 - No active profile set, falling back to default profiles: default
+2020-12-12 17:12:33 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 54336 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-12 17:12:33 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-12 17:12:33 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-12 17:12:44 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 11.353 seconds (JVM running for 12.771)
+2020-12-12 17:13:09 DEBUG DepartmentService:38 - Invoking getAllDepartments()
+2020-12-12 17:15:17 INFO  DepartmentsControllerTests:55 - Starting DepartmentsControllerTests using Java 1.8.0_275 on 5CG0393655 with PID 45816 (started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-12 17:15:17 DEBUG DepartmentsControllerTests:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-12 17:15:17 INFO  DepartmentsControllerTests:660 - No active profile set, falling back to default profiles: default
+2020-12-12 17:15:18 INFO  DepartmentsControllerTests:55 - Starting DepartmentsControllerTests using Java 1.8.0_275 on 5CG0393655 with PID 45816 (started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-12 17:15:18 DEBUG DepartmentsControllerTests:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-12 17:15:18 INFO  DepartmentsControllerTests:660 - No active profile set, falling back to default profiles: default
+2020-12-12 17:17:28 INFO  DepartmentsControllerTests:55 - Starting DepartmentsControllerTests using Java 1.8.0_275 on 5CG0393655 with PID 1776 (started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-12 17:17:28 DEBUG DepartmentsControllerTests:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-12 17:17:28 INFO  DepartmentsControllerTests:660 - No active profile set, falling back to default profiles: default
+2020-12-12 17:17:29 INFO  DepartmentsControllerTests:55 - Starting DepartmentsControllerTests using Java 1.8.0_275 on 5CG0393655 with PID 1776 (started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-12 17:17:29 DEBUG DepartmentsControllerTests:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-12 17:17:29 INFO  DepartmentsControllerTests:660 - No active profile set, falling back to default profiles: default
+2020-12-12 17:34:33 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 54336 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-12 17:34:33 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-12 17:34:33 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-12 17:34:35 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 2.153 seconds (JVM running for 1324.419)
+2020-12-12 17:34:38 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 54336 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-12 17:34:38 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-12 17:34:38 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-12 17:34:41 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 2.206 seconds (JVM running for 1329.721)
+2020-12-12 18:02:32 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 105456 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-12 18:02:32 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-12 18:02:32 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-16 12:07:46 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 93008 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-16 12:07:46 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-16 12:07:46 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-16 12:07:52 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 5.93 seconds (JVM running for 6.784)
+2020-12-16 12:08:03 DEBUG DepartmentService:40 - Invoking getAllDepartments()
+2020-12-16 12:08:22 DEBUG EmployeeService:40 - Invoking getAllEmployees()
+2020-12-16 12:13:05 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 81440 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-16 12:13:05 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-16 12:13:05 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-16 12:13:09 DEBUG EmployeeService:40 - Invoking getAllEmployees()
+2020-12-16 12:13:09 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 4.976 seconds (JVM running for 5.703)
+2020-12-16 14:25:31 INFO  DepartmentsControllerTests:55 - Starting DepartmentsControllerTests using Java 1.8.0_275 on 5CG0393655 with PID 37632 (started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-16 14:25:31 DEBUG DepartmentsControllerTests:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-16 14:25:31 INFO  DepartmentsControllerTests:664 - The following profiles are active: test
+2020-12-16 14:25:32 INFO  DepartmentsControllerTests:61 - Started DepartmentsControllerTests in 2.026 seconds (JVM running for 3.159)
+2020-12-16 14:27:12 INFO  DepartmentsControllerTests:55 - Starting DepartmentsControllerTests using Java 1.8.0_275 on 5CG0393655 with PID 106196 (started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-16 14:27:12 DEBUG DepartmentsControllerTests:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-16 14:27:12 INFO  DepartmentsControllerTests:664 - The following profiles are active: test
+2020-12-16 14:27:13 INFO  DepartmentsControllerTests:61 - Started DepartmentsControllerTests in 1.806 seconds (JVM running for 2.859)
+2020-12-16 15:01:24 DEBUG DepartmentService:40 - Invoking getAllDepartments()
+2020-12-16 15:05:54 INFO  DepartmentsControllerTests:55 - Starting DepartmentsControllerTests using Java 1.8.0_275 on 5CG0393655 with PID 115532 (started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-16 15:05:54 DEBUG DepartmentsControllerTests:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-16 15:05:54 INFO  DepartmentsControllerTests:660 - No active profile set, falling back to default profiles: default
+2020-12-16 15:05:55 INFO  DepartmentsControllerTests:61 - Started DepartmentsControllerTests in 2.023 seconds (JVM running for 3.208)
+2020-12-16 15:06:21 INFO  DepartmentsControllerTests:55 - Starting DepartmentsControllerTests using Java 1.8.0_275 on 5CG0393655 with PID 114924 (started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-16 15:06:21 DEBUG DepartmentsControllerTests:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-16 15:06:21 INFO  DepartmentsControllerTests:660 - No active profile set, falling back to default profiles: default
+2020-12-16 15:06:23 INFO  DepartmentsControllerTests:61 - Started DepartmentsControllerTests in 2.012 seconds (JVM running for 3.139)
+2020-12-16 15:09:23 INFO  DepartmentsControllerTests:55 - Starting DepartmentsControllerTests using Java 1.8.0_275 on 5CG0393655 with PID 117376 (started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-16 15:09:23 DEBUG DepartmentsControllerTests:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-16 15:09:23 INFO  DepartmentsControllerTests:660 - No active profile set, falling back to default profiles: default
+2020-12-16 15:09:25 INFO  DepartmentsControllerTests:61 - Started DepartmentsControllerTests in 2.009 seconds (JVM running for 3.165)
+2020-12-16 15:10:06 INFO  DepartmentsControllerTests:55 - Starting DepartmentsControllerTests using Java 1.8.0_275 on 5CG0393655 with PID 91248 (started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-16 15:10:06 DEBUG DepartmentsControllerTests:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-16 15:10:06 INFO  DepartmentsControllerTests:660 - No active profile set, falling back to default profiles: default
+2020-12-16 15:10:07 INFO  DepartmentsControllerTests:61 - Started DepartmentsControllerTests in 1.943 seconds (JVM running for 3.105)
+2020-12-16 15:28:46 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 124284 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-16 15:28:46 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-16 15:28:46 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-16 15:28:50 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 4.873 seconds (JVM running for 5.6)
+2020-12-16 18:43:22 INFO  DepartmentsControllerTests:55 - Starting DepartmentsControllerTests using Java 1.8.0_275 on 5CG0393655 with PID 32564 (started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-16 18:43:22 DEBUG DepartmentsControllerTests:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-16 18:43:22 INFO  DepartmentsControllerTests:660 - No active profile set, falling back to default profiles: default
+2020-12-16 18:43:24 INFO  DepartmentsControllerTests:61 - Started DepartmentsControllerTests in 2.089 seconds (JVM running for 3.251)
+2020-12-16 19:06:47 INFO  DepartmentsControllerTests:55 - Starting DepartmentsControllerTests using Java 1.8.0_275 on 5CG0393655 with PID 22880 (started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-16 19:06:47 DEBUG DepartmentsControllerTests:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-16 19:06:47 INFO  DepartmentsControllerTests:660 - No active profile set, falling back to default profiles: default
+2020-12-16 19:06:51 INFO  DepartmentsControllerTests:61 - Started DepartmentsControllerTests in 4.659 seconds (JVM running for 5.67)
+2020-12-16 22:52:57 DEBUG DepartmentService:40 - Invoking getAllDepartments()
+2020-12-16 22:54:20 DEBUG DepartmentService:40 - Invoking getAllDepartments()
+2020-12-16 22:57:28 DEBUG DepartmentService:62 - Invoking getDepartmentById()
+2020-12-16 22:57:40 DEBUG DepartmentService:62 - Invoking getDepartmentById()
+2020-12-16 22:58:24 DEBUG DepartmentService:62 - Invoking getDepartmentById()
+2020-12-17 09:32:02 DEBUG DepartmentService:62 - Invoking getDepartmentById()
+2020-12-17 09:32:26 DEBUG DepartmentService:62 - Invoking getDepartmentById()
+2020-12-17 09:37:38 DEBUG DepartmentService:76 - Invoking createNewDepartment()
+2020-12-17 09:38:12 DEBUG DepartmentService:76 - Invoking createNewDepartment()
+2020-12-17 09:38:45 DEBUG DepartmentService:76 - Invoking createNewDepartment()
+2020-12-17 09:38:58 DEBUG DepartmentService:76 - Invoking createNewDepartment()
+2020-12-17 09:40:00 DEBUG DepartmentService:76 - Invoking createNewDepartment()
+2020-12-17 09:40:39 DEBUG DepartmentService:76 - Invoking createNewDepartment()
+2020-12-17 09:41:44 DEBUG DepartmentService:76 - Invoking createNewDepartment()
+2020-12-17 09:53:00 DEBUG DepartmentService:62 - Invoking getDepartmentById()
+2020-12-17 09:54:00 DEBUG DepartmentService:62 - Invoking getDepartmentById()
+2020-12-17 09:54:17 DEBUG DepartmentService:62 - Invoking getDepartmentById()
+2020-12-17 10:14:38 DEBUG DepartmentService:94 - Invoking updateDepartment()
+2020-12-17 10:15:46 DEBUG DepartmentService:94 - Invoking updateDepartment()
+2020-12-17 10:16:02 DEBUG DepartmentService:94 - Invoking updateDepartment()
+2020-12-17 10:18:00 DEBUG DepartmentService:94 - Invoking updateDepartment()
+2020-12-17 10:19:23 DEBUG DepartmentService:94 - Invoking updateDepartment()
+2020-12-17 10:19:37 DEBUG DepartmentService:94 - Invoking updateDepartment()
+2020-12-17 10:19:50 DEBUG DepartmentService:62 - Invoking getDepartmentById()
+2020-12-17 10:19:50 DEBUG DepartmentService:62 - Invoking getDepartmentById()
+2020-12-17 10:19:50 DEBUG DepartmentService:76 - Invoking createNewDepartment()
+2020-12-17 10:19:50 DEBUG DepartmentService:94 - Invoking updateDepartment()
+2020-12-17 10:19:50 DEBUG DepartmentService:40 - Invoking getAllDepartments()
+2020-12-17 10:35:41 DEBUG DepartmentService:113 - Invoking deleteDepartmentById()
+2020-12-17 10:36:05 DEBUG DepartmentService:62 - Invoking getDepartmentById()
+2020-12-17 10:36:05 DEBUG DepartmentService:113 - Invoking deleteDepartmentById()
+2020-12-17 10:36:05 DEBUG DepartmentService:62 - Invoking getDepartmentById()
+2020-12-17 10:36:05 DEBUG DepartmentService:76 - Invoking createNewDepartment()
+2020-12-17 10:36:05 DEBUG DepartmentService:94 - Invoking updateDepartment()
+2020-12-17 10:36:06 DEBUG DepartmentService:40 - Invoking getAllDepartments()
+2020-12-17 10:51:27 DEBUG EmployeeService:95 - Invoking updateEmployee()
+2020-12-17 10:52:25 DEBUG EmployeeService:95 - Invoking updateEmployee()
+2020-12-17 10:55:13 DEBUG EmployeeService:95 - Invoking updateEmployee()
+2020-12-17 10:56:03 DEBUG EmployeeService:76 - Invoking createNewEmployee()
+2020-12-17 10:56:03 DEBUG EmployeeService:40 - Invoking getAllEmployees()
+2020-12-17 10:56:03 DEBUG EmployeeService:95 - Invoking updateEmployee()
+2020-12-17 10:56:03 DEBUG EmployeeService:62 - Invoking getEmployeeById()
+2020-12-17 10:56:03 DEBUG EmployeeService:62 - Invoking getEmployeeById()
+2020-12-17 10:56:03 DEBUG EmployeeService:132 - Invoking deleteEmployeeById()
+2020-12-17 10:56:31 DEBUG DepartmentService:62 - Invoking getDepartmentById()
+2020-12-17 10:56:31 DEBUG DepartmentService:113 - Invoking deleteDepartmentById()
+2020-12-17 10:56:31 DEBUG DepartmentService:62 - Invoking getDepartmentById()
+2020-12-17 10:56:31 DEBUG DepartmentService:76 - Invoking createNewDepartment()
+2020-12-17 10:56:31 DEBUG DepartmentService:94 - Invoking updateDepartment()
+2020-12-17 10:56:31 DEBUG DepartmentService:40 - Invoking getAllDepartments()
+2020-12-17 10:56:48 DEBUG EmployeeService:76 - Invoking createNewEmployee()
+2020-12-17 10:56:48 DEBUG EmployeeService:40 - Invoking getAllEmployees()
+2020-12-17 10:56:48 DEBUG EmployeeService:95 - Invoking updateEmployee()
+2020-12-17 10:56:48 DEBUG EmployeeService:62 - Invoking getEmployeeById()
+2020-12-17 10:56:48 DEBUG EmployeeService:62 - Invoking getEmployeeById()
+2020-12-17 10:56:48 DEBUG EmployeeService:132 - Invoking deleteEmployeeById()
+2020-12-17 10:57:38 DEBUG DepartmentService:62 - Invoking getDepartmentById()
+2020-12-17 10:57:38 DEBUG DepartmentService:113 - Invoking deleteDepartmentById()
+2020-12-17 10:57:38 DEBUG DepartmentService:62 - Invoking getDepartmentById()
+2020-12-17 10:57:38 DEBUG DepartmentService:76 - Invoking createNewDepartment()
+2020-12-17 10:57:38 DEBUG DepartmentService:94 - Invoking updateDepartment()
+2020-12-17 10:57:38 DEBUG DepartmentService:40 - Invoking getAllDepartments()
+2020-12-17 11:56:47 DEBUG EmployeeService:114 - Invoking updateEmployeeAddress()
+2020-12-17 11:57:04 DEBUG EmployeeService:114 - Invoking updateEmployeeAddress()
+2020-12-17 11:57:38 DEBUG EmployeeService:114 - Invoking updateEmployeeAddress()
+2020-12-17 12:01:06 DEBUG EmployeeService:114 - Invoking updateEmployeeAddress()
+2020-12-17 12:36:19 DEBUG ProjectService:96 - Invoking updateProject()
+2020-12-17 12:36:19 DEBUG ProjectService:77 - Invoking createNewProject()
+2020-12-17 12:36:19 DEBUG ProjectService:63 - Invoking getProjectById()
+2020-12-17 12:36:19 DEBUG ProjectService:41 - Invoking getAllProjects()
+2020-12-17 12:36:19 DEBUG ProjectService:63 - Invoking getProjectById()
+2020-12-17 12:36:19 DEBUG ProjectService:133 - Invoking deleteProjectById()
+2020-12-17 12:46:14 DEBUG ProjectService:96 - Invoking updateProject()
+2020-12-17 12:46:14 DEBUG ProjectService:77 - Invoking createNewProject()
+2020-12-17 12:46:14 DEBUG ProjectService:115 - Invoking updateProjectDescription()
+2020-12-17 12:46:14 DEBUG ProjectService:63 - Invoking getProjectById()
+2020-12-17 12:46:14 DEBUG ProjectService:41 - Invoking getAllProjects()
+2020-12-17 12:46:14 DEBUG ProjectService:63 - Invoking getProjectById()
+2020-12-17 12:46:14 DEBUG ProjectService:133 - Invoking deleteProjectById()
+2020-12-17 13:00:39 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 124248 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-17 13:00:39 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-17 13:00:39 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-17 13:00:48 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 9.993 seconds (JVM running for 11.584)
+2020-12-17 13:01:51 DEBUG EmployeeService:40 - Invoking getAllEmployees()
+2020-12-17 13:02:52 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 102628 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
+2020-12-17 13:02:52 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-17 13:02:52 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
