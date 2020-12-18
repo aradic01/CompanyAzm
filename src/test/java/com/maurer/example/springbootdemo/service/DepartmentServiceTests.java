@@ -53,7 +53,7 @@ public class DepartmentServiceTests {
     }
 
     @Test
-    public void getAllDepartmentsShouldReturnDepartmentsList() {
+    public void shouldReturnAllDepartments() {
 
         given(departmentRepository.findAll()).willReturn(departmentList);
 
@@ -64,7 +64,7 @@ public class DepartmentServiceTests {
     }
 
     @Test
-    public void getDepartmentByExistingIdShouldReturnDepartment() {
+    public void shouldReturnExistingDepartmentById() {
         given(departmentRepository.findById(2)).willReturn(Optional.of(otherDepartment));
 
         Department expectedDepartment = departmentService.getDepartmentById(2);
@@ -74,14 +74,14 @@ public class DepartmentServiceTests {
     }
 
     @Test(expected = ResourceNotFoundException.class)
-    public void getDepartmentByNonExistingIdShouldThrowResourceNotFoundException() {
+    public void shouldThrowResourceNotFoundExceptionWhileRetrievingNonExistingDepartment() {
 
         given(departmentRepository.findById(any(Integer.class))).willReturn(Optional.empty());
         departmentService.getDepartmentById(4);
     }
 
     @Test
-    public void createNewDepartmentShouldSuccessfullyCreateNewDepartment() {
+    public void shouldSuccessfullyCreateNewDepartment() {
 
         given(departmentRepository.saveAndFlush(any(Department.class))).willAnswer(invocation -> invocation.getArgument(0));
         //given(departmentRepository.saveAndFlush(department)).willReturn(department);
@@ -93,7 +93,7 @@ public class DepartmentServiceTests {
     }
 
     @Test
-    public void deleteDepartmentShouldDeleteExistingDepartment() {
+    public void shouldSuccessfullyDeleteExistingDepartment() {
 
         final int departmentId = 1;
 
@@ -106,7 +106,7 @@ public class DepartmentServiceTests {
     }
 
     @Test(expected = ResourceNotFoundException.class)
-    public void deleteNonExistingDepartmentShouldThrowResourceNotFoundException() {
+    public void shouldThrowResourceNotFoundException() {
 
         when(departmentRepository.findById(any(Integer.class))).thenReturn(Optional.empty());
 
@@ -114,7 +114,7 @@ public class DepartmentServiceTests {
     }
 
     @Test
-    public void relationalMappingShouldSuccessfullyGetEmployees() {
+    public void shouldSuccessfullyGetAllEmployeesInRelation() {
         assertThat(departmentMock.getEmployees()).isNotNull();
     }
 }

@@ -57,7 +57,7 @@ public class ProjectServiceTests {
     }
 
     @Test
-    public void getAllProjectsShouldReturnProjectsList() {
+    public void shouldReturnAllProjects() {
 
         given(projectRepository.findAll()).willReturn(projectList);
 
@@ -68,7 +68,8 @@ public class ProjectServiceTests {
     }
 
     @Test
-    public void getProjectByExistingIdShouldReturnProject() {
+    public void shouldReturnExistingProjectById() {
+
         given(projectRepository.findById(2)).willReturn(Optional.of(otherProject));
 
         Project expectedProject = projectService.getProjectById(2);
@@ -78,14 +79,14 @@ public class ProjectServiceTests {
     }
 
     @Test(expected = ResourceNotFoundException.class)
-    public void getProjectByNonExistingIdShouldThrowResourceNotFoundException() {
+    public void shouldThrowResourceNotFoundExceptionWhileRetrievingNonExistingProject() {
 
         given(projectRepository.findById(4)).willReturn(Optional.empty());
         projectService.getProjectById(4);
     }
 
     @Test
-    public void createNewProjectShouldSuccessfullyCreateNewProject() {
+    public void shouldSuccessfullyCreateNewProject() {
 
         given(projectRepository.saveAndFlush(project)).willAnswer(invocation -> invocation.getArgument(0));
         //given(departmentRepository.saveAndFlush(department)).willReturn(department);
@@ -97,7 +98,7 @@ public class ProjectServiceTests {
     }
 
     @Test
-    public void deleteProjectShouldDeleteExistingProject() {
+    public void shouldDeleteExistingProjectById() {
 
         final int projectId = 1;
 
@@ -110,7 +111,7 @@ public class ProjectServiceTests {
     }
 
     @Test(expected = ResourceNotFoundException.class)
-    public void deleteNonExistingDepartmentShouldThrowResourceNotFoundException() {
+    public void shouldThrowResourceNotFoundExceptionWhileTryingToDeleteNonExistingProject() {
 
         when(projectRepository.findById(any(Integer.class))).thenReturn(Optional.empty());
 
@@ -118,7 +119,7 @@ public class ProjectServiceTests {
     }
 
     @Test
-    public void relationalMappingShouldSuccessfullyGetEmployees() {
+    public void shouldSuccessfullyGetAllEmployeesInRelation() {
         assertThat(projectMock.getEmployees()).isNotNull();
     }
 }

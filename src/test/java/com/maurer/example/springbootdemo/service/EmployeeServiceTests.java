@@ -65,7 +65,7 @@ public class EmployeeServiceTests {
     }
 
     @Test
-    public void getAllEmployeesShouldReturnEmployeesList() {
+    public void shouldReturnAllEmployees() {
 
         given(employeeRepository.findAll()).willReturn(employeeList);
 
@@ -76,7 +76,7 @@ public class EmployeeServiceTests {
     }
 
     @Test
-    public void getEmployeeByExistingIdShouldReturnEmployee() {
+    public void shouldReturnEmployeeById() {
         given(employeeRepository.findById(2)).willReturn(Optional.of(otherEmployee));
 
         Employee expectedEmployee = employeeService.getEmployeeById(2);
@@ -86,14 +86,14 @@ public class EmployeeServiceTests {
     }
 
     @Test(expected = ResourceNotFoundException.class)
-    public void getEmployeeByNonExistingIdShouldThrowResourceNotFoundException() {
+    public void shouldThrowResourceNotFoundExceptionWhileRetrievingNonExistingEmployee() {
 
         given(employeeRepository.findById(4)).willReturn(Optional.empty());
         employeeService.getEmployeeById(4);
     }
 
     @Test
-    public void createNewEmployeeShouldSuccessfullyCreateNewEmployee() {
+    public void shouldSuccessfullyCreateNewEmployee() {
 
         given(employeeRepository.saveAndFlush(employee)).willAnswer(invocation -> invocation.getArgument(0));
         //given(departmentRepository.saveAndFlush(department)).willReturn(department);
@@ -105,7 +105,7 @@ public class EmployeeServiceTests {
     }
 
     @Test
-    public void deleteEmployeeShouldDeleteExistingEmployee() {
+    public void shouldSuccessfullyDeleteExistingEmployee() {
 
         final int employeeId = 1;
 
@@ -118,7 +118,7 @@ public class EmployeeServiceTests {
     }
 
     @Test(expected = ResourceNotFoundException.class)
-    public void deleteNonExistingDepartmentShouldThrowResourceNotFoundException() {
+    public void shouldThrowResourceNotFoundExceptionWhileTryingToDeleteNonExistingEmployee() {
 
         when(employeeRepository.findById(any(Integer.class))).thenReturn(Optional.empty());
 
@@ -126,12 +126,12 @@ public class EmployeeServiceTests {
     }
 
     @Test
-    public void relationalMappingShouldSuccessfullyGetProjectsList() {
+    public void shouldSuccessfullyGetAllProjectsInRelation() {
         assertThat(employeeMock.getProjects()).isNotNull();
     }
 
     @Test
-    public void relationalMappingShouldSuccessfullyGetDepartmentsList () {
+    public void shouldSuccessfullyGetAllDepartmentsInRelation() {
         assertThat(employeeMock.getDepartments()).isNotNull();
     }
 }

@@ -394,3 +394,16 @@
 2020-12-17 13:02:52 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on 5CG0393655 with PID 102628 (C:\dev\workspace\spdemo\springbootdemo\target\classes started by radicant in C:\dev\workspace\spdemo\springbootdemo)
 2020-12-17 13:02:52 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
 2020-12-17 13:02:52 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-18 13:11:07 INFO  SpringBootDemoApplicationTests:55 - Starting SpringBootDemoApplicationTests using Java 11.0.1 on DESKTOP-9VU7P5M with PID 2944 (started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-18 13:11:07 DEBUG SpringBootDemoApplicationTests:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-18 13:11:07 INFO  SpringBootDemoApplicationTests:660 - No active profile set, falling back to default profiles: default
+2020-12-18 13:11:13 INFO  SpringBootDemoApplicationTests:61 - Started SpringBootDemoApplicationTests in 6.229 seconds (JVM running for 7.83)
+2020-12-18 13:16:29 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on DESKTOP-9VU7P5M with PID 8116 (C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm\target\classes started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-18 13:16:29 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-18 13:16:29 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-18 13:16:35 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 6.497 seconds (JVM running for 7.581)
+2020-12-18 13:17:21 DEBUG EmployeeService:40 - Invoking getAllEmployees()
+2020-12-18 13:32:00 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on DESKTOP-9VU7P5M with PID 4388 (C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm\target\classes started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-18 13:32:00 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-18 13:32:00 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-18 13:32:06 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 6.576 seconds (JVM running for 7.775)
