@@ -435,3 +435,62 @@
 2020-12-18 14:32:01 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
 2020-12-18 14:32:01 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
 2020-12-18 14:32:07 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 7.235 seconds (JVM running for 8.54)
+2020-12-18 15:11:47 INFO  SpringBootDemoApplicationTests:55 - Starting SpringBootDemoApplicationTests using Java 1.8.0_275 on DESKTOP-9VU7P5M with PID 1700 (started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-18 15:11:47 DEBUG SpringBootDemoApplicationTests:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-18 15:11:47 INFO  SpringBootDemoApplicationTests:660 - No active profile set, falling back to default profiles: default
+2020-12-18 15:11:54 INFO  SpringBootDemoApplicationTests:61 - Started SpringBootDemoApplicationTests in 7.421 seconds (JVM running for 8.893)
+2020-12-18 15:25:53 INFO  SpringBootDemoApplicationTests:55 - Starting SpringBootDemoApplicationTests using Java 1.8.0_275 on DESKTOP-9VU7P5M with PID 7924 (started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-18 15:25:53 DEBUG SpringBootDemoApplicationTests:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-18 15:25:53 INFO  SpringBootDemoApplicationTests:660 - No active profile set, falling back to default profiles: default
+2020-12-18 15:26:07 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on DESKTOP-9VU7P5M with PID 6864 (C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm\target\classes started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-18 15:26:07 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-18 15:26:07 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-18 15:27:14 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on DESKTOP-9VU7P5M with PID 12400 (C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm\target\classes started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-18 15:27:14 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-18 15:27:14 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-18 15:46:28 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on DESKTOP-9VU7P5M with PID 7824 (C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm\target\classes started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-18 15:46:28 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-18 15:46:28 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-18 15:47:31 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on DESKTOP-9VU7P5M with PID 6280 (C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm\target\classes started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-18 15:47:31 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-18 15:47:31 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-18 15:47:55 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on DESKTOP-9VU7P5M with PID 5324 (C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm\target\classes started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-18 15:47:55 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-18 15:47:55 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-18 15:49:19 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on DESKTOP-9VU7P5M with PID 9628 (C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm\target\classes started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-18 15:49:19 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-18 15:49:19 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-18 15:49:26 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 7.018 seconds (JVM running for 8.032)
+2020-12-18 15:52:29 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on DESKTOP-9VU7P5M with PID 7016 (C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm\target\classes started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-18 15:52:29 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-18 15:52:29 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-18 15:59:44 INFO  SpringBootDemoApplicationTests:55 - Starting SpringBootDemoApplicationTests using Java 1.8.0_275 on DESKTOP-9VU7P5M with PID 1092 (started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-18 15:59:44 DEBUG SpringBootDemoApplicationTests:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-18 15:59:44 INFO  SpringBootDemoApplicationTests:660 - No active profile set, falling back to default profiles: default
+2020-12-18 15:59:51 INFO  SpringBootDemoApplicationTests:61 - Started SpringBootDemoApplicationTests in 7.181 seconds (JVM running for 8.972)
+2020-12-18 16:00:37 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on DESKTOP-9VU7P5M with PID 13564 (C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm\target\classes started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-18 16:00:37 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-18 16:00:37 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-18 16:00:44 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 7.054 seconds (JVM running for 8.073)
+2020-12-18 16:03:18 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on DESKTOP-9VU7P5M with PID 12796 (C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm\target\classes started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-18 16:03:18 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-18 16:03:18 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-18 16:03:24 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 7.262 seconds (JVM running for 8.328)
+2020-12-18 16:04:12 DEBUG EmployeeService:40 - Invoking getAllEmployees()
+2020-12-18 16:05:32 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on DESKTOP-9VU7P5M with PID 5020 (C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm\target\classes started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-18 16:05:32 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-18 16:05:32 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-18 16:05:38 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 6.601 seconds (JVM running for 7.717)
+2020-12-18 16:07:16 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on DESKTOP-9VU7P5M with PID 12208 (C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm\target\classes started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-18 16:07:16 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-18 16:07:16 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-18 16:07:22 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 7.188 seconds (JVM running for 8.522)
+2020-12-18 16:07:49 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on DESKTOP-9VU7P5M with PID 3904 (C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm\target\classes started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-18 16:07:49 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-18 16:07:49 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-18 16:07:56 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 8.03 seconds (JVM running for 9.189)
+2020-12-18 16:08:24 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on DESKTOP-9VU7P5M with PID 11724 (C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm\target\classes started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-18 16:08:24 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-18 16:08:24 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-18 16:08:31 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 7.157 seconds (JVM running for 8.355)
+2020-12-18 16:08:37 DEBUG EmployeeService:40 - Invoking getAllEmployees()
