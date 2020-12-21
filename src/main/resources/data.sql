@@ -14,6 +14,18 @@ INSERT INTO projects (short_name, name, description) VALUES
     ('OtherName', 'OtherNameLong', 'Some other project description'),
     ('ThirdName', 'ThirdNameLong', 'Some third project description');
 
+INSERT INTO users (username, password) VALUES
+('ante', '$2a$10$ovQ0cOz9BdEQ3R6eitM9EO1yXIil75QO9NtIuxFagiKyNsyF0X/76'),
+('user', '$2a$10$oJJNO3Jp3LGLgAcp/Ax9s.m0msFzuyg22YsHkZC06FxnuzIiiT8Rm');
+
+INSERT INTO roles (name) VALUES
+('Admin'),
+('User');                                ;
+
+INSERT INTO user_roles (user_id, role_id) VALUES
+(1,1),
+(2,2);
+
 INSERT INTO employee_departments (employee_id, department_id) VALUES
     (1,3),
     (2,1),
