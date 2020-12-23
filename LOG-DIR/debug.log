@@ -645,3 +645,10 @@
 2020-12-21 13:29:10 DEBUG ProjectService:41 - Invoking getAllProjects()
 2020-12-21 14:00:45 DEBUG DepartmentService:40 - Invoking getAllDepartments()
 2020-12-21 14:01:05 DEBUG EmployeeService:40 - Invoking getAllEmployees()
+2020-12-21 14:13:47 INFO  SpringBootDemoApplication:55 - Starting SpringBootDemoApplication using Java 1.8.0_275 on DESKTOP-9VU7P5M with PID 4420 (C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm\target\classes started by Ante in C:\Users\Ante\Desktop\Projects\CompanyAzm\CompanyAzm)
+2020-12-21 14:13:47 DEBUG SpringBootDemoApplication:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-21 14:13:47 INFO  SpringBootDemoApplication:660 - No active profile set, falling back to default profiles: default
+2020-12-21 14:13:57 INFO  SpringBootDemoApplication:61 - Started SpringBootDemoApplication in 11.166 seconds (JVM running for 12.685)
+2020-12-21 14:14:06 DEBUG ProjectService:41 - Invoking getAllProjects()
+2020-12-21 14:14:20 DEBUG DepartmentService:40 - Invoking getAllDepartments()
+2020-12-21 14:14:23 DEBUG EmployeeService:40 - Invoking getAllEmployees()
