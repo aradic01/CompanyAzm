@@ -75,7 +75,6 @@ public class UserDetailsServiceTests {
 
     @Test(expected = UsernameNotFoundException.class)
     public void shouldThrowUsernameNotFoundExceptionWhenTryingToLoadNonExistingUser() {
-
         when(userRepository.findByUsername(any(String.class))).thenReturn(Optional.empty());
 
         userDetailsService.loadUserByUsername("user");
