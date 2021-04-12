@@ -1,0 +1,17 @@
+version: '2'
+
+services:
+  company-server:
+    container_name: company-server
+    build:
+      dockerfile: Dockerfile
+      context: ./
+    image: company-organizer:latest
+    ports:
+        - 8887:8080
+    networks:
+        - spring-cloud-network
+
+networks:
+  spring-cloud-network:
+    driver: bridge
